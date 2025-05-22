@@ -9,8 +9,8 @@
 
 ## 🥇Accomplishments
 
-- I've participated in the national round of [NOIT](https://edusoft.fmi.uni-sofia.bg) (National Olympiad in Information Technology) and finished in 14th place.
-- I've also participated in the national round of [CODEWARS #Всички на борда](https://codewars.itpg-varna.bg) and finished in 5th place.
+- I've participated in the national round of [NOIT 2024](https://edusoft.fmi.uni-sofia.bg) (National Olympiad in Information Technology) and finished in 14th place.
+- I've also participated in the national round of [CODEWARS #Всички на борда 2024](https://codewars.itpg-varna.bg) and finished in 5th place.
 
 ## 🛠️ Languages and Tools
 
