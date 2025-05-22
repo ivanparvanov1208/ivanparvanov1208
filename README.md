@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋 I'm Ivan Parvanov
 
-<!--
-**ivanparvanov1208/ivanparvanov1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub profile! I'm 16 years old from Burgas, Bulgaria and currently in 10th grade. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Currently learning **Python**, **HTML**, **CSS** and **Github**. I'm also an active **discord bot** developer mainly with **Python**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🥇Accomplishments
+
+- I've participated in the national round of [NOIT](https://edusoft.fmi.uni-sofia.bg) (National Olympiad in Information Technology) and finished in 14th place.
+- I've also participated in the national round of [CODEWARS #Всички на борда](https://codewars.itpg-varna.bg) and finished in 5th place.
+
+## 🛠️ Languages and Tools
+
+![Your favorite languages/tools badges go here](https://skillicons.dev/icons?i=python,pycharm,html,css,git,github,discord,vscode)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanparvanov1208&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanparvanov1208&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+ - [![Tiktok](https://img.shields.io/badge/-Tiktok-purple?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+ - [![Instagram](https://img.shields.io/badge/-Instagram-magenta?style=flat-square&logo=web&logoColor=white)](https://yourportfolio.com)
+ - [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=web&logoColor=white)](https://yourportfolio.com)
+ - [![Snapchat](https://img.shields.io/badge/-Snapchat-yellow?style=flat-square&logo=web&logoColor=white)](https://yourportfolio.com)
