@@ -27,7 +27,7 @@
 
 ## 📫 Connect with Me
 
- - [![Tiktok](https://img.shields.io/badge/-Tiktok-purple?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+ - [![Tiktok](https://img.shields.io/badge/-Tiktok-purple?style=flat-square&logo=twitter&logoColor=white)](htpps://www.tiktok.com/@_.iv._.prv._?_t=ZN-8wZqPoGQ4aV&_r=1)
  - [![Instagram](https://img.shields.io/badge/-Instagram-magenta?style=flat-square&logo=web&logoColor=white)](https://www.instagram.com/_.parvanovw._/)
  - [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=web&logoColor=white)](https://www.facebook.com/ivan.parvanov.9235)
  - [![Snapchat](https://img.shields.io/badge/-Snapchat-yellow?style=flat-square&logo=web&logoColor=white)](https://www.snapchat.com/add/iv_prv0?share_id=ocNP01F8Ztw&locale=en-GB)
